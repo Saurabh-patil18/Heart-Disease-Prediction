@@ -1,1 +1,2 @@
 # Heart-Disease-Prediction
+Designed and developed a cost-efficient web-based predictive model for heart disease risk assessment, leveraging a Deep Neural Network (DNN) to achieve 95.25% accuracy. Conducted comprehensive parameter tuning and data analysis to optimize prediction accuracy. The application integrates advanced machine learning techniques with a user-friendly interface, enabling accessible and reliable health risk evaluation.
